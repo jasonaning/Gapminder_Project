@@ -29,17 +29,17 @@ This study was done to:
  
 ---
 
-1. Understand how income affects health outcomes:
+1. **Understand how income affects health outcomes**:
  Measure how GDP per capita influences life expectancy across countries and over time.
  Help governments justify economic growth as a health investment.
 
-2. Track economic progress over time:
+2. **Track economic progress over time**:
 Measure global GDP growth from 1952 to 2007. Identify countries with the fastest long-run GDP growth. Useful for long-term investment and development planning.
 
-3. Identify income inequality across continents:
+3. **Identify income inequality across continents**:
 Compare GDP distribution by continent using boxplots. Support targeted development funding for low-income regions (especially Africa).
 
-4. Rank countries by demographic and economic importance:
+4. **Rank countries by demographic and economic importance**:
 Identify countries with the largest average populations. Useful for market sizing, public service delivery, and global business strategy.
 
 ---
@@ -88,7 +88,7 @@ GDP growth rates and volatility differ sharply by continent, with developing reg
 
 - **Programming Language**: Rstudios  
 - **Packages**: tidyverse, gapminder, plm, lme4, tseries, psych, ineq, forecast, lmtest 
-- **Tools**:  R Jupyter Notebook, Github  
+- **Tools**:  R Jupyter Notebook, Github, Latex(Mathematical Formulars)  
 
 ---
 
