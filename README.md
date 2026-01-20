@@ -11,7 +11,7 @@
 7. [Conclusion](#conclusion)  
  ---
 
-12. ## PROJECT OVERVIEW
+. ## PROJECT OVERVIEW
 Development economics focuses on understanding why some countries live longer, earn higher incomes, and grow faster than others. The Gapminder dataset provides a clear picture of how life expectancy, income levels, population, and economic growth have changed across the world from 1952 to 2007.
 This study was done to:
 - Compare the development performance of countries and continents.
